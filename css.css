@@ -1,0 +1,15 @@
+th{
+   background: #000dff;
+   color: rgb(196, 255, 189);
+   font-family: 'Sevillana', cursive;
+   background-image: url(./1.jpg);
+}
+tr{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Sevillana', cursive;
+}
+#deep{
+    background-image: url(/5.jpg);
+    background-attachment: fixed;
+    
+}
